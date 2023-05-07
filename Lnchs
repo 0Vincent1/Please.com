@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>Lupon National Comprehensive High School</title>	<style>
+
+		body {
+
+			font-family: Arial, sans-serif;
+
+			background-color: #f2f2f2;
+
+		}
+
+		h1 {
+
+			color: blue;
+
+			text-align: center;
+
+			margin-top: 50px;
+
+		}
+
+		.container {
+
+			max-width: 800px;
+
+			margin: 0 auto;
+
+			padding: 20px;
+
+			background-color: white;
+
+			box-shadow: 0px 0px 10px grey;
+
+		}
+
+		.featured-image {
+
+			display: block;
+
+			margin: 0 auto;
+
+			max-width: 600px;
+
+			height: auto;
+
+		}
+
+		p {
+
+			font-size: 18px;
+
+			line-height: 1.5;
+
+			margin-top: 20px;
+
+		}
+
+		button {
+
+			background-color: blue;
+
+			color: white;
+
+			border: none;
+
+			padding: 10px 20px;
+
+			border-radius: 5px;
+
+			margin-top: 20px;
+
+			display: block;
+
+			margin: 0 auto;
+
+			font-size: 16px;
+
+		}
+
+	</style>
+
+</head>
+
+<body>
+
+	<h1>Welcome to Lupon National Comprehensive High School</h1>
+
+	<div class="container">
+
+		<img src="https://via.placeholder.com/600x400.png?text=Featured+Image" alt="Featured Image" class="featured-image">
+
+		<p>Lupon National Comprehensive High School is a leading secondary school in the Philippines, offering quality education to students from all over the country. Our school has a rich history of academic excellence, with many of our graduates going on to successful careers in various fields.</p>
+
+		<p>We offer a wide range of academic programs, including science, technology, engineering, mathematics, humanities, and social sciences. Our dedicated faculty and staff are committed to providing students with a supportive and challenging learning environment that encourages academic achievement and personal growth.</p>
+
+		<button>Apply Now</button>
+
+	</div>
+
+</body>
+
+</html>
